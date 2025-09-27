@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+#permalink: /about/
 ---
 
 My name is Cristian Páez, and I’m a Lead Gameplay Programmer at Ubisoft Barcelona. I’m passionate about game development with Unreal Engine, which is why I created this blog. My goal is to share notes and insights from my own exploration of the engine, in the hope they’ll be useful to others. These posts aren’t formal tutorials — they’re personal experiences and lessons learned while tackling different aspects of Unreal.
