@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Cristian Páez, and I’m a Lead Gameplay Programmer at Ubisoft Barcelona. I’m passionate about game development with Unreal Engine, which is why I created this blog. My goal is to share notes and insights from my own exploration of the engine, in the hope they’ll be useful to others. These posts aren’t formal tutorials — they’re personal experiences and lessons learned while tackling different aspects of Unreal.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Don hesitate to reach out to me in these channels:
+- [Linkedin](www.linkedin.com/in/cristianpaezr)
+- [Github](https://github.com/Cristian2554)

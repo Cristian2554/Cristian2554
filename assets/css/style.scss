@@ -1,0 +1,14 @@
+---
+---
+
+#header nav ul li {
+  display: inline-block; /* make them horizontal */
+  margin-right: 10px;    /* add space between */
+}
+
+#header nav ul li.fork {
+  font-size: 2em;     /* roughly h1 scale */
+  font-weight: bold;  /* bold like a heading */
+}
+
+@import "{{ site.theme }}";
